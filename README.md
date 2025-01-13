@@ -1,2 +1,2 @@
-# TTA++ 
-TTA++: Rethinking Test-Time Adaptation for Domain Generalization in Image Classification. The code will be released soon.
+# DDB-DG
+DDB-DG: Domain generalization for image classification with dynamic decision boundary. The code will be released soon.
